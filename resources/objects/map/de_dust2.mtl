@@ -1,0 +1,613 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl material_0
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_0.png
+
+newmtl material_1
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_1.png
+
+newmtl material_2
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_2.png
+
+newmtl material_3
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_3.png
+
+newmtl material_4
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_4.png
+
+newmtl material_5
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_5.png
+
+newmtl material_6
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_6.png
+
+newmtl material_7
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_7.png
+
+newmtl material_8
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_8.png
+
+newmtl material_9
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_9.png
+
+newmtl material_10
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_10.png
+
+newmtl material_11
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_11.png
+
+newmtl material_12
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_12.png
+
+newmtl material_13
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_13.png
+
+newmtl material_14
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_14.png
+
+newmtl material_15
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_15.png
+
+newmtl material_16
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_16.png
+
+newmtl material_17
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_17.png
+
+newmtl material_18
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_18.png
+
+newmtl material_19
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_19.png
+
+newmtl material_20
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_20.png
+
+newmtl material_21
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_21.png
+
+newmtl material_22
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_22.png
+
+newmtl material_23
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_23.png
+
+newmtl material_24
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_24.png
+
+newmtl material_25
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_25.png
+
+newmtl material_26
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_26.png
+
+newmtl material_27
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_27.png
+
+newmtl material_28
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_28.png
+
+newmtl material_29
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_29.png
+
+newmtl material_30
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_30.png
+
+newmtl material_31
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_31.png
+
+newmtl material_32
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_32.png
+
+newmtl material_33
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psc 1 1 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_33.png

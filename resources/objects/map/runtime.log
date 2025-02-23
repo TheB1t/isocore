@@ -1,0 +1,6 @@
+[          window.cpp:72    ][32m<  INFO>: Platform: X11[0m
+[          window.cpp:92    ][32m<  INFO>: OpenGL Version: 4.6.0 NVIDIA 550.144.03[0m
+[          window.cpp:93    ][32m<  INFO>: OpenGL Vendor: NVIDIA Corporation[0m
+[          window.cpp:94    ][32m<  INFO>: OpenGL Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2[0m
+[          window.cpp:95    ][32m<  INFO>: OpenGL Shading Language Version: 4.60 NVIDIA[0m
+[             app.cpp:70    ][1m[31m< FATAL>: Failed to load resources[0m
